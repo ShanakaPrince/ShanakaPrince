@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on gaining experiences
-- 📫 How to reach me form my university mail or from my personal email."shanakaprince@gmail.com"
+- 📫 How to reach me from my university mail or from my personal email."shanakaprince@gmail.com"
 
 <!---
 ShanakaPrince/ShanakaPrince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
